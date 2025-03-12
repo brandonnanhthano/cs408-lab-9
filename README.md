@@ -2,23 +2,14 @@
 
 ## Overview
 
-TODO: Write a project description
+This project is a bouncy ball game where you are an evil circle that is going around eating all the bouncy balls. You
+can play this game by using live preview of the html document and play as the evil circle. You can control the circle
+by using A W S D. All the other balls will change colors whenever they go through each other.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
+- jss syntax reference sheet
+https://www.w3schools.com/js/js_functions.asp
 
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- how to get the ball counter to work with jss and html
+https://www.geeksforgeeks.org/design-a-simple-counter-using-html-css-and-javascript/
